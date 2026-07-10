@@ -1,1 +1,3 @@
+Vehicle communication with accident alert system
+ 
  The project develops a Vehicle Accident Alert System that detects accidents using an impact sensor and sends the vehicle's GPS location via GSM/LTE to emergency contacts. It also includes a manual SOS button, fire and smoke sensors for added safety, ensuring faster emergency response, improved vehicle safety, and helping save lives during emergencies.
